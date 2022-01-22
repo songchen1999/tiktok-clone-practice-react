@@ -13,7 +13,7 @@ export default function VideoFooter(){
                 <MusicNoteIcon className="videoFooter_icon"/>
                 <Ticker mode="smooth" className="videoFooter_ticker" >
                     {(index)=>(
-                        <p>fasdfasdf dasfdsaf dafdsfd adfdas</p>
+                        <p>fasdfasdf ds</p>
                     )}
                     
                 </Ticker>
