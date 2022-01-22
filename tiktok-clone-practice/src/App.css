@@ -4,8 +4,9 @@ html {
 
 .app_videos{
   position: relative;
-  height: 600px;
+  height: 650px;
   overflow: scroll;
+  border-radius: 20px;
   width: 80%;
   max-width: 500px;
   scroll-snap-type: y mandatory;
